@@ -22,10 +22,10 @@ void loop() {
     if (blocks) {
         i++;
         if (i%1==0) {
-        for (j=0; j<blocks; j++) {
-            xywh = pixy.blocks[j].print();
-            Serial.println(xywh);
-        }
+            for (j=0; j<blocks; j++) {
+                xywh = pixy.blocks[j].print();
+                Serial.println(xywh);
+            }
         }
     }
     delay(1);
