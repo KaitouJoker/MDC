@@ -1,5 +1,5 @@
 # MDC(Mecha Distribution Cart)
-Changwon Campus of Korea Polytechnic VII Mechatronics Capstone with Raspberry Pi Pico(MicroPython)
+Changwon Campus of Korea Polytechnic VII 2023 Mechatronics Capstone with Raspberry Pi Pico(MicroPython)
 https://youtu.be/CACpqYryguE
 
 BlueDuino (Arduino Joystick)
