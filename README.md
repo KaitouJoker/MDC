@@ -1,6 +1,7 @@
 # MDC(Mecha Distribution Cart)
 Changwon Campus of Korea Polytechnic VII 2023 Mechatronics Capstone with Raspberry Pi Pico(MicroPython)
 ![KakaoTalk_20231209_154634943](https://github.com/KaitouJoker/MDC/assets/35037436/6809b85c-f9e1-4b30-a06b-a65c3382de05)
+
 https://youtu.be/CACpqYryguE
 
 - HC-06
