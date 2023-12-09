@@ -6,6 +6,7 @@ https://youtu.be/CACpqYryguE
 
 - HC-06
 - Arduino Mega 2560
+- PixyCam
 - Raspberry Pi Pico
 - BlueDuino(Arduino Joystick)
 
@@ -13,5 +14,12 @@ Circuit
 ![Circuit](https://github.com/KaitouJoker/MDC/blob/main/Circuit%20Diagram/V2%20Sketch.png)
 
 BlueDuino (Arduino Joystick)
+
 https://play.google.com/store/apps/details?id=com.app.aktham.blueduino&pcampaignid=web_share
 ![app](https://github.com/KaitouJoker/MDC/assets/35037436/e80fb93d-33a0-45a9-b917-98b94f3247a6)
+
+PixyCam
+
+https://pixycam.com/pixy-cmucam5/
+
+![PixyCam](Image/front3-225px.png)
